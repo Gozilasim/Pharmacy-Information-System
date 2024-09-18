@@ -1,2 +1,2 @@
 # Pharmacy-Information-System
-C++
+This is a console-based system that allows users to create accounts, modify account details, and purchase products. The system is integrated with a database for efficient data management, enabling seamless insertion and retrieval of user and product data. Users can register new accounts, update their personal information, and make purchases directly through the console interface. All transactions and account modifications are securely stored in the database, ensuring data integrity and easy access for future reference. This system provides a simple yet powerful way for users to interact with the platform while maintaining a robust backend for data handling.
